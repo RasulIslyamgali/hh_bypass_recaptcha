@@ -35,8 +35,8 @@ if __name__ == "__main__":
         driver.get("https://hh.kz/account/login?backurl=%2F")
         # driver.find_element('//div[@class="supernova-navi-item supernova-navi-item_lvl-2 supernova-navi-item_button supernova-navi-item_no-mobile supernova-navi-item_dashboard "]//a[1][@class="supernova-button "]').click()
         driver.find_element('//span[contains(text(), "Войти с")]').click()
-        driver.find_element('//input[@placeholder="Email или телефон"]').send_keys("77081905970")
-        driver.find_element('//input[@placeholder="Пароль"]').send_keys("Zorres98")
+        driver.find_element('//input[@placeholder="Email или телефон"]').send_keys("login")
+        driver.find_element('//input[@placeholder="Пароль"]').send_keys("password")
         driver.find_element('//span[text()="Войти"]').click()
 
 

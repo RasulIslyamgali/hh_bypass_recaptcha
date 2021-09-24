@@ -14,6 +14,8 @@
 
 Кстати не удивляйтесь синтаксису selenium. Я использовал библиотеку, которая написана специально, чтобы ускорить процесс разработки с selenium.
 
+Пока не залил на сервак. Но буду.
+
 -------------------------------------------------------------
 
 Created a bot for auto-raising a resume on the website hh.kz
@@ -31,3 +33,5 @@ Filled in the code for those who might be interested in recaptcha bypass.
 A lot of extra code is possible (comments). Feel free to delete them.
 
 By the way, don't be surprised at the selenium syntax. I used a library that was written specifically to speed up the development process with selenium.
+
+Until I uploaded it to the server. But I will.

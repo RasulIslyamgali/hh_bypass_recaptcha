@@ -12,6 +12,8 @@
 
 Возможно много лищнего кода(комментарии). Можете их смело удалять.
 
+Кстати не удивляйтесь синтаксису selenium. Я использовал библиотеку, которая написана специально, чтобы ускорить процесс разработки с selenium.
+
 -------------------------------------------------------------
 
 Created a bot for auto-raising a resume on the website hh.kz
@@ -27,3 +29,5 @@ The libraries used are in the __main__.py file
 Filled in the code for those who might be interested in recaptcha bypass.  
 
 A lot of extra code is possible (comments). Feel free to delete them.
+
+By the way, don't be surprised at the selenium syntax. I used a library that was written specifically to speed up the development process with selenium.
